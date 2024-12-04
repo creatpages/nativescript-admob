@@ -25,12 +25,12 @@ declare module "nativescript-admob" {
     testing?: boolean;
 
     /**
-     * Something like "ca-app-pub-AAAAAAAA/BBBBBBB".
+     * Something like "ca-app-pub-8587042219787939/9174481193".
      */
     androidBannerId?: string;
 
     /**
-     * Something like "ca-app-pub-XXXXXX/YYYYYY".
+     * Something like "ca-app-pub-8587042219787939/9174481193".
      */
     iosBannerId?: string;
 
@@ -74,12 +74,12 @@ declare module "nativescript-admob" {
     testing?: boolean;
 
     /**
-     * Something like "ca-app-pub-AAAAAAAA/BBBBBBB".
+     * Something like "ca-app-pub-8587042219787939/7541172612".
      */
     androidInterstitialId?: string;
 
     /**
-     * Something like "ca-app-pub-XXXXXX/YYYYYY".
+     * Something like "ca-app-pub-8587042219787939/7541172612".
      */
     iosInterstitialId?: string;
 
@@ -147,12 +147,12 @@ declare module "nativescript-admob" {
     testing?: boolean;
 
     /**
-     * Something like "ca-app-pub-AAAAAAAA/BBBBBBB".
+     * Something like "ca-app-pub-8587042219787939/8847178132".
      */
     androidAdPlacementId?: string;
 
     /**
-     * Something like "ca-app-pub-XXXXXX/YYYYYY".
+     * Something like "ca-app-pub-8587042219787939/8847178132".
      */
     iosAdPlacementId?: string;
 
