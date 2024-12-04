@@ -272,7 +272,7 @@ admob.preloadRewardedVideoAd = function (arg) {
     try {
       var settings = admob.merge(arg, admob.defaults);
       if (settings.testing) {
-        settings.androidAdPlacementId = "ca-app-pub-3940256099942544/5224354917";
+        settings.androidAdPlacementId = "ca-app-pub-8587042219787939/9174481193";
       }
       admob.videoView = com.google.android.gms.ads.MobileAds.getRewardedVideoAdInstance(admob._getActivity());
 
