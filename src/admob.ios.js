@@ -321,7 +321,7 @@ admob.preloadRewardedVideoAd = function (arg) {
       var settings = admob.merge(arg, admob.defaults);
       var adRequest = GADRequest.request();
       if (settings.testing) {
-        settings.iosAdPlacementId = "ca-app-pub-3940256099942544/1712485313";
+        settings.iosAdPlacementId = "ca-app-pub-8587042219787939/8847178132";
       }
 
       admob.videoView.loadRequestWithAdUnitID(adRequest, settings.iosAdPlacementId);
